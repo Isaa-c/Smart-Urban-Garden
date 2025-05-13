@@ -16,7 +16,7 @@ Smart Urban Garden monitors:
 
 💧 Water Level (Ultrasonic Sensor)
 
-It automatically waters the plants when the soil is dry and provides real-time updates to the Arduino IoT Cloud dashboard. It is built entirely with recycled plastic bottles, promoting sustainability and accessibility.
+It automatically waters the plants when the soil is dry and provides real-time updates to the Arduino IoT Cloud dashboard.
 
 🛠️ How We Built It
 Microcontroller: Arduino Uno R4
@@ -35,7 +35,7 @@ Actuators: 5V Relay + Water Pump
 
 LCD: 20x4 I2C Display
 
-Materials: Locoboard , pipes, and wooden supports
+Materials: Locoboard , pipes, and wooden supports.
 
 ⚙️ Features
 📶 Real-time monitoring on Arduino IoT Cloud
