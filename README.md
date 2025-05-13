@@ -37,35 +37,36 @@ LCD: 20x4 I2C Display
 
 Materials: Locoboard , pipes, and wooden supports.
 
-⚙️ Features
-📶 Real-time monitoring on Arduino IoT Cloud
+ Features
+1.Real-time monitoring on Arduino IoT Cloud
 
-💧 Auto-watering based on soil condition
+2.Auto-watering based on soil condition
 
-🔋 Low power consumption
+3.Low power consumption
 
-📊 Displays all readings on an LCD screen
+4.Displays all readings on an LCD screen
 
-🧩 Challenges We Faced
-Fine-tuning sensor accuracy in changing weather
+Challenges We Faced
+1.Fine-tuning sensor accuracy in changing weather
 
-Ensuring reliable cloud sync and data visibility
+2.Ensuring reliable cloud sync and data visibility
 
 
-🏆 Accomplishments
+Accomplishments
 
-Integrated multiple sensors and cloud logic
+1.Integrated multiple sensors and cloud logic
 
-📚 What We Learned
-Practical IoT system design and Arduino Cloud integration
+What We Learned
 
-Real-world sustainability applications of STEM
+1.Practical IoT system design and Arduino Cloud integration
+
+2.Real-world sustainability applications of STEM
 ressure
 
 🔮 What's Next
-📱 Build a mobile app for wider access
+1. Build a mobile app for wider access
 
-🌾 Pilot the project in mining-affected rural areas
+2. Pilot the project in mining-affected rural areas
 
-🤖 Implement AI-based watering predictions
+3.Implement AI-based watering predictions
 
